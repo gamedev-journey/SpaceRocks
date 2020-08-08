@@ -90,8 +90,16 @@
             "Key": "57bb18b7-ca00-4480-9431-f0e940838f16",
             "Value": {
                 "id": "dc6549af-49e9-4e74-8553-b112751b6f4e",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "59910300-a8c5-4a24-a625-0f227acc1fec",
+            "Value": {
+                "id": "45eeaf6a-03bf-4d01-acf4-1fb918e571a4",
+                "resourcePath": "objects\\obj_ship\\obj_ship.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -100,6 +108,14 @@
                 "id": "ed2cbf1f-9d29-490a-b3a3-cd7656206fd9",
                 "resourcePath": "views\\5ca4b23d-1d85-4c71-a9f9-5609323ca5ff.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "605c7420-cd08-4a6d-9a97-4a8365bbd0e7",
+            "Value": {
+                "id": "34883663-fe85-44cd-9247-7f79ced0c1b4",
+                "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
+                "resourceType": "GMObject"
             }
         },
         {
